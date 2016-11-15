@@ -16,6 +16,8 @@ Collection online record: [http://www.britishmuseum.org/research/collection_onli
 The contents of this repository are licensed under CC BY-NC-SA. 
 
 # DOI
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.166698.svg)](https://doi.org/10.5281/zenodo.166698)
+
 
 # Credits
 
